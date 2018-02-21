@@ -1,0 +1,19 @@
+{
+  "name": "backend-listing-assignment",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static File Server - Backend Assignment ",
+  "license": "MIT",
+  "repository": "mimaaa/backend-listing-assignment",
+  "author": "Mirza van Meerwijk <hello@mirza.lol> (http://mirza.lol)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "file",
+    "server",
+    "backend"
+  ]
+}
