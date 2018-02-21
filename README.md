@@ -8,4 +8,4 @@ If you would like to [contribute](https://github.com/Mimaaa/backend-listing-assi
 
 # License
 
-[MIT](https://github.com/Mimaaa/backend-listing-assigment/blob/master/LICENSE.md) © Mirza van Meerwijk
+[MIT](https://github.com/Mimaaa/backend-listing-assigment/blob/master/LICENSE.md) © [Mirza van Meerwijk](www.mirza.lol)
